@@ -2,7 +2,7 @@ const target = document.getElementById('target');
 let yes = document.getElementById('yes');
 
 yes.addEventListener('click', () => {
-    alert("I love you too jaan mera bab u😘😘😘");
+    alert("I love you too Cutie pie😘😘😘");
 })
 
 function moveTarget(){
